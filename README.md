@@ -84,7 +84,6 @@ namastey-udaipur/
 ├── README.md                              ← You are here
 ├── LICENSE.md                             ← © Nikhil Tiwari. All rights reserved.
 ├── SETUP_GUIDE.md                         ← GitHub publish instructions
-├── .gitignore
 │
 ├── docs/                                  ── Product Documents
 │   ├── PRD.md                             ← Full Product Requirements Document
