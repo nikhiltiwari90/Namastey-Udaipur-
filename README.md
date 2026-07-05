@@ -122,9 +122,6 @@ namastey-udaipur/
 │
 ├── experiments/                           ── Experimentation
 │   └── ExperimentationLog.md              ← 5 experiments: hypothesis → result
-│
-└── demo/
-    └── ProductDemoScript.md               ← Interview-ready product story
 ```
 
 ---
